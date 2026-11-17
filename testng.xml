@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite parallel = "tests" name="Suite">
+<listeners>
+<listener class-name="OrangeHRMProject.TestComponents.Listeners" />
+</listeners>
+  <test thread-count="5" name="HR Test">
+    <classes>
+      <class name="OrangeHRMProject.tests.HRTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

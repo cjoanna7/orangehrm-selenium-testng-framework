@@ -1,0 +1,19 @@
+[
+	{
+		"firstName" : "QA",
+		"middleName" : "Automation",
+		"lastName" : "Selenium",
+		"terminationReason" : "Testing",	
+		"searchName" : "Test"
+	},
+	
+	{
+		"firstName" : "Janice",
+		"middleName" : "Jane",
+		"lastName" : "Doe",
+		"terminationReason" : "Testing2",	
+		"searchName" : "Test"
+	}
+	
+	
+]
